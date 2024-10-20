@@ -9,9 +9,9 @@
 #include <math.h>
 
 int main(void){
-    int a = 1;
-    int b = 2;
-    int c = 3;
+    int a = 5;
+    int b = 5;
+    int c = 0;
     float x1,x2;
     float res;
 
