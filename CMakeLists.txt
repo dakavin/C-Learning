@@ -1,6 +1,3 @@
-cmake_minimum_required(VERSION 3.28)
-project(1_C_Learning C)
-
 # 按照书本要求设定C语言版本
 set(CMAKE_C_STANDARD 99)
 
